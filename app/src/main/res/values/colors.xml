@@ -4,4 +4,9 @@
     <color name="colorPrimaryDark">#3700B3</color>
     <color name="colorAccent">#03DAC5</color>
     <color name="colorIconBackground">#37A2DA</color>
+    <color name="colorGreen">#018433</color>
+    <color name="colorLightGray">#f5f5f5</color>
+    <color name="colorPriceFont">#e9828c</color>
+    <color name="colorPriceFontDarker">#ee528c</color>
+
 </resources>
